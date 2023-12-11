@@ -7,3 +7,19 @@ HAPI FHIR Java SDK教學
 
 主要目的為教學使用，因此採用了互動式的架構。選擇vscode + Jupyter + iJava為開發環境。IJAVA相關訊息可參考：https://github.com/SpencerPark/IJava
 
+- 安裝HAPI FHIR Server + Postgres
+  - 使用Docker Compose
+  ```
+  docker compose up
+  ```
+- 安裝iJava
+  
+- 取得Lab Source Code
+```
+git clone https://github.com/hongyu0324/HAPI-fhir-Lab
+```
+- 產生合成資料(Synthetic Data)，產生10筆病患資料
+```
+cd $SYNTHEA DIR$
+run_synthea -p 10
+```
