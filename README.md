@@ -12,6 +12,7 @@ HAPI FHIR Java SDK教學
   ```
   docker compose up
   ```
+- 安裝VSCode https://code.visualstudio.com/
 - 安裝iJava
   ```
   git clone https://github.com/SpencerPark/IJava.git
