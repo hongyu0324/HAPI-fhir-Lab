@@ -40,3 +40,7 @@ HAPI FHIR Java SDK教學
   ```
 - 執行與測試
 
+課程區分為三部分：
+- FHIR基礎課程，內容包含基本CRUD操作、Synthetic資料匯入、重整與分析與FHIR Search API練習
+- 虛擬診所與病患看病流程
+- FHIR進階議題
