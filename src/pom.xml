@@ -59,8 +59,6 @@
 			<version>${hapifhir_version}</version>
 		</dependency>
 
-		
-
 		<!-- 
 		HAPI-FHIR uses Logback for logging support. The logback library is included 
 		automatically by Maven as a part of the hapi-fhir-base dependency, but you 
