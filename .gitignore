@@ -5,7 +5,7 @@
 *.log
 
 # test data
-*.json
+*.json .txt
 
 # BlueJ files
 *.ctxt
