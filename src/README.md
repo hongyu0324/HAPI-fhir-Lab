@@ -6,3 +6,4 @@ Lab #1 系列的主要目的在於建立測試環境，同時熟悉FHIR API與HA
 - 產生Patient Summary
 - Json檔 - Parsing & Serialization
 - FHIR Search
+- 產生IPS Document
