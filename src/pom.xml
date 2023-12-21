@@ -9,7 +9,7 @@
 	<name>HAPI FHIR iJava Lab</name>
 
    <properties>
-      <hapifhir_version>6.0.0</hapifhir_version>
+      <hapifhir_version>6.10.1</hapifhir_version>
    </properties>
 
    <repositories>
@@ -71,6 +71,21 @@
 			<version>1.2.3</version>
 		</dependency -->
 
+		<!-- Include the HAPI FHIR JPA server -->
+		<!--
+		<dependency>
+			<groupId>ca.uhn.hapi.fhir</groupId>
+			<artifactId>hapi-fhir-jpaserver-base</artifactId>
+			<version>${hapifhir_version}</version>
+		</dependency>
+		
+		<dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-nop</artifactId>
+            <version>2.19.0</version>
+        </dependency>
+		-->
+		
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-nop</artifactId>
